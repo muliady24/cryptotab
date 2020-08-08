@@ -1,0 +1,18 @@
+{
+    "auth": "gAAAAABfFG8t33m0QwCP9c-Xp32WapCd7pyo0EcySXlIxO1jrMWokLq-GXlPXiHIgbb9mC3CLme_kG2lJaatgVH3R3SB4YBvBOG1Y7IntzAu3wR4bdcCrWQ=",
+    "device_info": {
+        "default_browser": "true",
+        "v": "4.0.11",
+        "ref": "''",
+        "bid": "0c3e2efd-7938-411d-abfe-feac9f5c726d",
+        "sdk": "24",
+        "manufacturer": "samsung",
+        "device": "a51",
+        "model": "SM-A515F",
+        "product": "a51nsxx",
+        "hardware": "",
+        "board": "exynos9611",
+        "brand": "samsung",
+        "arm64": "true"
+    }
+}
